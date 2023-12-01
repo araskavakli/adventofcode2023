@@ -1,3 +1,3 @@
-# Adven of Code 2023
+# Advent of Code 2023
 
-Solutions to [adventofcode2023 Puzzles](https://adventofcode.com/2023).
+Solutions to [Advent of Code2023 Puzzles](https://adventofcode.com/2023).
